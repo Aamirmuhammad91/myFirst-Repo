@@ -1,0 +1,45 @@
+* {
+    font-family: 'Comic Neue', cursive;
+}
+.navbar {
+    background-color: gray;
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-toggle{
+    border-color: black;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:black;
+  }
+.navbar-default .navbar-nav>li>a {
+	color: black;
+	padding-top: 5px;
+    padding-bottom:5px;
+    border: 1px solid black;
+    margin:0;
+    background-color: gray;
+}
+.navbar-default .navbar-nav{
+	margin-top:0;
+    margin-bottom: 0;
+    border-color: black;
+}
+ .main-content {
+ 	background-color: gray;
+     padding: 10px;
+     border-color: black;
+ 	/*margin-left: 15px;
+ 	margin-right: 15px;*/
+ }
+ h1 {
+    font-family: 'Comic Neue', cursive;
+     padding: 30px;
+ }
+ hr {
+     margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid black;
+ }
